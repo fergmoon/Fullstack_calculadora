@@ -17,3 +17,4 @@ git add -> Agregar archivos nuevos para el seguimiento en git y agregar cambios 
 git commit -> Permitir "poner en firme" o de forma oficial el nuevo archivo o modificacion dentro del repositorio
 git push -> Subir cambios a la nube
 git pull -> Descargar cambios
+barra espaciadora -> pasa los comandos de git
