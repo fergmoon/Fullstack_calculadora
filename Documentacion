@@ -1,0 +1,18 @@
+HTML
+
+
+<h1></h1> Títulos
+<br> Saltos de Línea en el texto
+<input> Caja para ingresar datos
+<button> Botón para ejecutar
+id= identificador para el tipo de dato que debe ingresar
+onclick = evento (al picar u oprimir hace una accion) 
+let => variables que pueden cambiar de valor
+typeof => Dice que tipo de dato hay dentro de ese campo.
+
+GIT
+
+git init-> iniciar un nuevo repositorio en un directorio
+git add -> Agregar archivos nuevos para el seguimiento en git y agregar cambios a los archivos existentes
+git commit -> Permitir "poner en firme" o de forma oficial el nuevo archivo o modificacion dentro del repositorio
+git push -> Subir cambios a la nube
